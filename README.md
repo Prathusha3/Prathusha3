@@ -9,7 +9,7 @@
 </p>
 
 
-- 👋 Hi, Lakshmi Prathusha
+- 👋 Hi, I'm Lakshmi Prathusha
 - 👀 I’m interested in Machine Learning Projects
 - 🌱 I’m currently learning Basics of Data Science and Machnine Learning
 - 📫 How to reach me **lprathus@gitam.in** or **prathusha2092@gmail.com**
