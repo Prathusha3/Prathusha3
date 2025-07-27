@@ -27,3 +27,12 @@ Feel free to explore my repositories and reach out. Looking forward to connectin
 </p>
 
 ---
+
+### 🔗 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/lakshmiprathusha" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
