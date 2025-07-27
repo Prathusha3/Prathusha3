@@ -16,3 +16,14 @@
 - 😄 Pronouns: Prathu
 
 Feel free to explore my repositories and reach out. Looking forward to connecting with you!
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathusha3&show_icons=true&theme=radical" alt="Sujan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathusha3&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
